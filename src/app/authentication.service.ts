@@ -15,7 +15,7 @@ export class AuthenticationService {
 
   }
   public forgotPassword(username){
-
+  return "True"
   }
   
 }
